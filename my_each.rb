@@ -5,4 +5,5 @@ def my_each(set)
     yield set[i] 
     i += 1 
   end 
+  set
 end
